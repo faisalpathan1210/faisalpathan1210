@@ -1,4 +1,4 @@
-# Hi 👋 I'm Faisal
+# Hi 👋 I'm Faisalkhan
 
 🎓 B.Tech IT Student  
 💻 Learning Java & Full Stack Development  
